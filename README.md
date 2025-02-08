@@ -2,3 +2,4 @@
 ได้แล่ว
 SAWASDEE KUB
 nut
+.
