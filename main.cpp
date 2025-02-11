@@ -52,3 +52,20 @@ void OnResize(sf::RenderWindow& window, sf::Event& event)
 	gState.playerView = player1View;
 	gState.player2View = player2View;
 }
+
+int main()
+{
+	srand(time(NULL));
+
+	sf::RenderWindow window(sf::VideoMode(28.s * TSIZE * 4, 36.f * TSIZE * 2), "PACMAN - 2 PLAYERS");
+	window.setFramerateLimit(60);
+
+	sf::View player1View({ 0, 0, 28.f * TSIZE, 36.f * TSIZE });
+	sf::View player2View({ 0, 0, 28.f * TSIZE, 36.f * TSIZE });
+
+
+	player1View.setViewport(calSplitScreenView({ window.getSize().x * 1.f, window.getSize().y * 1.f }, win_ratio, true));
+	player2View.setViewport(calSplitScreenView({ window.getSize().x * 1.f, window.getSize().y * 1.f }, win_ratio, false));
+
+
+}
