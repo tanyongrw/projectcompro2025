@@ -34,3 +34,21 @@ sf::FloatRect calSplitScreenView(const sf::Vector2f& windowSize, float pacRatio,
 
 	return viewport;
 }
+
+
+void OnResize(sf::RenderWindow& window, sf::Event& event)
+{
+	float h = event.size.height;
+	float w = event.size.width;
+
+
+	sf::View player1View = sf::View({ 0, 0, 28.f * TSIZE, 36.f * TSIZE });
+	sf::View player2View = sf::View({ 0, 0, 28.f * TSIZE, 36.f * TSIZE });
+
+	player1View.setViewport(calSplitScreenView({ w,h }, win_ratio, true));
+	player2View.setViewport(calSplitScreenView({ w,h }, win_ratio, false));
+
+
+	gState.playerView = player1View;
+	gState.player2View = player2View;
+}
