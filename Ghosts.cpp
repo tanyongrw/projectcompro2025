@@ -1,5 +1,5 @@
 #include "Ghosts.h"
-
+ 
 // ตรวจสอบว่าผีอยู่กลางช่องหรือไม่
 bool InMiddleTile(sf::Vector2f pos, sf::Vector2f prev, Dir dir)
 {
