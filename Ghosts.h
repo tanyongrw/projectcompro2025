@@ -1,6 +1,6 @@
 #ifndef GHOST_H
 #define GHOST_H
-#include "Pacman.h"
+#include "Pacman.h" 
 
 // ฟังก์ชันพื้นฐาน
 bool InMiddleTile(sf::Vector2f pos, sf::Vector2f prev, Dir dir);
