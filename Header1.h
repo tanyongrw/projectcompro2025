@@ -1,12 +1,16 @@
 #pragma once
 #include <SFML/Graphics.hpp>
+#include <vector>
 
-class Tile{
-int sizeX;
-int sizeY;
-int posX;
-int posY;
-};
+class Tile {
+private:
+    sf::Sprite sprite;
+    int posX, posY;
 
 public:
-    Tile(sf::Texture&, sf::Sprite, int, int, int xOfRect = 264, int sX = 32, int sY = 32);
+    Tile(sf::Texture& texture, int x, int y, int xOfRect = 264, int size = 32);
+    int getPosX() const;
+    int getPosY() const;
+    void draw(sf::RenderWindow& window) const;
+};
+
