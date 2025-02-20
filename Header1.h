@@ -14,3 +14,11 @@ public:
     void draw(sf::RenderWindow& window) const;
 };
 
+class Map {
+private:
+    std::vector<Tile> tilemap;
+
+public:
+    void generate(sf::RenderWindow& window, sf::Texture& tileTexture, int xOfRect = 264);
+    const std::vector<Tile>& getTilemap() const;
+};
