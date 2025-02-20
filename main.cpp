@@ -67,5 +67,47 @@ int main()
 	player1View.setViewport(calSplitScreenView({ window.getSize().x * 1.f, window.getSize().y * 1.f }, win_ratio, true));
 	player2View.setViewport(calSplitScreenView({ window.getSize().x * 1.f, window.getSize().y * 1.f }, win_ratio, false));
 
+	gState.window = &window;
+	gState.player1View = player1View;
+	gState.player2View = player2View;
 
+	OnStart();
+	sf::Clock clock;
+	sf::Time elapsed;
+
+	while (window.isOpen()) {
+		sf::Event event;
+		while (window.pollEvent(event)) {
+			switch (event.type) {
+				case sf::Event::Closed:
+					window.close();
+					break;
+				case sf::Event::Resized:
+					OnResize(window, event);
+					break;
+				case sf::Event::KeyPressed:
+					switch (event.key.code) {
+						case sf::Keyboard::Escape:
+							window.close();
+							break;
+					}
+					
+			}
+		}
+
+		elapsed = clock.restart();
+
+		window.clear();
+
+		window.setView(gState.player1View);
+		GameLoop(elapsed.asMilliseconds(), 1);
+
+		window.setView(gState.player2View);
+		GameLoop(elapsed.asMilliseconds(), 2);
+
+		window.display();
+	}
+
+	OnQuit();
+	return 0;
 }
