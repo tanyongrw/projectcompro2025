@@ -1,4 +1,5 @@
-#include <SFML/graphics.hpp>
+#include <SFML/Graphics.hpp>
+#include <SFML/Audio.hpp>
 #include <random>
 #include <time.h>
 #include "Gameloop.h"
@@ -74,6 +75,9 @@ int main()
 	OnStart();
 	sf::Clock clock;
 	sf::Time elapsed;
+
+	sf::Music music1;
+	
 
 	while (window.isOpen()) {
 		sf::Event event;
