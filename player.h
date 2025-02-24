@@ -4,7 +4,7 @@
 #ifndef PLAYER_H
 #define PLAYER_H
 
-#include "Pacman.h"
+#include "pacman.h"
 
 namespace Player1 {
 	Dir GetCorrection(Dir pdir, sf::Vector2f ppos);

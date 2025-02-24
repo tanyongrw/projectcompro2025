@@ -1,6 +1,6 @@
 #ifndef GHOST_H
 #define GHOST_H
-#include "Pacman.h" 
+#include "pacman.h" 
 
 bool InMiddleTile(sf::Vector2f pos, sf::Vector2f prev, Dir dir);
 std::vector<Dir> GetAvailableSquares(sf::Vector2f pos, Dir dir, bool home_tiles);

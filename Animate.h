@@ -2,7 +2,7 @@
 #ifndef ANIMATE_H
 #define ANIMATE_H
 
-#include "Pacman.h"
+#include "pacman.h"
 #include <SFML/Graphics.hpp>
 
 class Animation {
