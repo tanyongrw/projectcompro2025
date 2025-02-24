@@ -75,15 +75,43 @@ int main()
 	OnStart();
 	sf::Clock clock;
 	sf::Time elapsed;
-
+	
+	//Main Music NAJA
 	sf::Music music1;
 	if (!music1.loadfromfile("Music1.wav"))
 	{
-		std::cout << "OMG" << std::endl ;
+		std::cout << "OMG1" << std::endl ;
 	}
 	music1.setVolume(33);
 	music1.play();
 	music1.setloop(true);
+	//Start Sound NAJA
+	sf::SoundBuffer startbuffer;
+	if (!startbuffer.loadfromfile("startsound.wav"))
+	{
+		std::cout << "OMG2" << std::endl ;
+	}
+	sf::Sound startsound;
+	startsound.setBuffer(startbuffer);
+	startsound.setVolume(44);
+	//Game win sound NAJA
+	sf::SoundBuffer winbuffer;
+	if (!winbuffer.loadfromfile("winsound.wav"))
+	{
+		std::cout << "OMG3" << std::endl ;
+	}
+	sf::Sound winsound;
+	winsound.setBuffer(winbuffer);
+	winsound.setVolume(44);
+	//Game lose sounf NAJHA
+	sf::SoundBuffer losebuffer;
+	if (!losebuffer.loadfromfile("deadsound.wav"))
+	{
+		std::cout << "OMG4" << std::endl ;
+	}
+	sf::Sound losesound;
+	losesound.setBuffer(losebuffer);
+	losesound.setVolume(44);
 
 	while (window.isOpen()) {
 		sf::Event event;
