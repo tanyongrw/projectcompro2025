@@ -1,4 +1,4 @@
-﻿#include <SFML/graphics.hpp>
+﻿#include <SFML/Graphics.hpp>
 #include <random>
 #include <time.h>
 #ifndef PLAYER_H
