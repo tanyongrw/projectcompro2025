@@ -77,7 +77,13 @@ int main()
 	sf::Time elapsed;
 
 	sf::Music music1;
-	
+	if (!music1.loadfromfile("Music1.wav"))
+	{
+		std::cout << "OMG" << std::endl ;
+	}
+	music1.setVolume(33);
+	music1.play();
+	music1.setloop(true);
 
 	while (window.isOpen()) {
 		sf::Event event;
