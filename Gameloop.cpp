@@ -1,10 +1,9 @@
-//* 
 #include "Gameloop.h"
 #include <fstream>
 #include <sstream>
 #include <string>
 #include <cmath>
-#include <vector> //*
+#include <vector> 0
 GameState gState;
 
 void OnStart()

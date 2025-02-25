@@ -85,7 +85,6 @@ struct GameState {
     bool using_global_counter = false;
     int global_dot_counter = 0;
 
-    // เพิ่มสำหรับระบบ 2 ผู้เล่น
     bool multiplayer_mode = false;
     Player* player1;
     Player* player2;
