@@ -6,9 +6,9 @@
 #include "player.h"
 #include "Animate.h"
 #include "Music1.wav"
-#include "startsound"
-#include "winsound"
-#include "losesound"
+#include "startsound.wav"
+#include "winsound.wav"
+#include "deadsound.wav"
 
 void OnStart();
 void OnQuit();
