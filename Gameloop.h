@@ -10,31 +10,31 @@
 void OnStart();
 void OnQuit();
 void GameLoop(int ms_elapsed);
+
+
 void Init();
 void InitBoard();
-
-// Reset functions
 void ResetGhostsAndPlayers(); 
 void ResetBoard();
 void SetupMenu();
 
-// Game mechanics
+
 void IncrementGhostHouse();
-void CheckPelletCollision(int player_index);  
-void CheckGhostCollision(int player_index);   
+void CheckPelletCollision();  
+void CheckGhostCollision();   
 void UpdateWave(int ms_elapsed);
-void UpdateEnergizerTime(int ms_elapsed, int player_index);  
+void UpdateEnergizerTime(int ms_elapsed);  
 void CheckWin();
 
 // Score handling
-void CheckHighScore(int player_index);  
-void LoadHighScores();  
-void SaveHighScores();  
+void CheckHighScore();  
+void LoadHighScore();  
+void SaveHighScore();  
 
 // Player specific functions
-void HandlePlayerInput(int player_index);  
-void UpdatePlayer(int player_index, int ms_elapsed); 
-void HandlePlayerCollisions(int player_index); 
+void HandlePlayerInput();  
+void UpdatePlayer(int ms_elapsed); 
+void HandlePlayerCollisions(); 
 
 // Multiplayer specific functions
 void CheckPlayerCollisions(); 
