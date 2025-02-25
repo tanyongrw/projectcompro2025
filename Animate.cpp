@@ -1,18 +1,26 @@
 #include "Animate.h"
 
-static Animation animate;
+static Animation animate1;
 static Animation animate2; 
 
 sf::IntRect GetGhostFrame(GhostType type, TargetState state, Dir dir)
 {
     sf::IntRect ghost = { 0,128,32,32 };
+    
+    
     int offset = 0;
     if (state != FRIGHTENED) {
         switch (dir)
         {
-        case UP: offset = 128; break;
-        case DOWN: offset = 128 + 64; break;
-        case LEFT: offset = 64; break;
+        case UP:
+            offset = 128; 
+            break;
+        case DOWN: 
+            offset = 128 + 64; 
+            break;
+        case LEFT: 
+            offset = 64; 
+            break;
         }
     }
 
@@ -22,15 +30,15 @@ sf::IntRect GetGhostFrame(GhostType type, TargetState state, Dir dir)
             ghost.left += 64;
     }
     else if (state == GOHOME || state == ENTERHOME) {
-        ghost.left = 256 + (offset / 2);
+        ghost.left = 256 + (offset/2);
         ghost.top = 128 + 32;
     }
     else {
         ghost.top += 32 * type;
         ghost.left = offset;
     }
-    if (state != GOHOME && state != ENTERHOME)
-        ghost.left += animate.ghost_frame_2 * 32;
+    if(state != GOHOME && state != ENTERHOME)
+       ghost.left += animate.ghost_frame_2 * 32;
 
     return ghost;
 }
@@ -39,7 +47,7 @@ void AnimateUpdate(int ms_elapsed)
 {
     PulseUpdate(ms_elapsed);
 
-    if (gState.player->stopped && !animate.death_animation) {
+    if (gState.player1->stopped && !animate.death_animation) {
         animate.pacman_frame = 0;
         animate.assending = true;
     }
@@ -63,7 +71,7 @@ void AnimateUpdate(int ms_elapsed)
         if (animate.pacman_frame > 10)
             gState.player->enable_draw = false;
     }
-    else if (animate.pacman_timer > 25 && !gState.player->stopped) {
+    else if (animate.pacman_timer > 25 && !gState.player1->stopped) {
         animate.pacman_frame += (animate.assending) ? 1 : -1;
         animate.pacman_timer = 0;
     }

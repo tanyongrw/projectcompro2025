@@ -21,7 +21,7 @@ public:
     bool isPulse() const;
     void setPulseFrequency(int ms);
 
-private:
+public:
     int pacman_frame;
     int pacman_timer;
     bool ascending;
