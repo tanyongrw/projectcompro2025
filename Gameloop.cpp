@@ -406,7 +406,7 @@ void MainLoop(int ms_elapsed)
 void GameStart(int ms_elasped)
 {
 	//startsound maka
-	startsound.play();
+	soundManager.playStartSound();
 	
 	gState.pause_time -= ms_elasped;
 	if (gState.pause_time <= 0) {
@@ -419,7 +419,7 @@ void GameStart(int ms_elasped)
 void GameLose(int ms_elapsed) //*
 {
 	//lose soufn NAJa
-	losesound.play();
+	soundManager.playLoseSound();
 	
 	gState.pause_time -= ms_elapsed;
 	if (gState.players1->lives < 0 && gState.players2->lives < 0) {
@@ -445,7 +445,7 @@ void GameLose(int ms_elapsed) //*
 void GameWin(int ms_elapsed)
 {
 	//winsound NAJA
-	winsound.play();
+	soundManager.playWinSound();
 	
 	gState.pause_time -= ms_elapsed;
 	if (gState.pause_time <= 0) {
