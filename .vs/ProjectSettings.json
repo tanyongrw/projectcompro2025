@@ -1,3 +1,29 @@
 {
-  "CurrentProjectSetting": null
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build C++",
+            "type": "shell",
+            "command": "g++",
+            "args": [
+                "-g",
+                "Ghosts.cpp",
+                "-o",
+                "Ghosts.exe",
+                "-I",
+                "${workspaceFolder}/include",
+                "-I",
+                "C:/SFML/include",
+                "-L",
+                "C:/SFML/lib",
+                "-lsfml-graphics",
+                "-lsfml-window",
+                "-lsfml-system"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
 }
