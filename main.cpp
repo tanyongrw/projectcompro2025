@@ -78,8 +78,6 @@ int main()
 	
 	SoundManager soundManager;
 
-	soundManager.playMusic();
-	soundManager.playStartSound();
 
 	while (window.isOpen()) {
 		sf::Event event;
