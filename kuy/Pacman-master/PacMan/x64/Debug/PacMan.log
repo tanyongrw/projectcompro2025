@@ -1,0 +1,453 @@
+﻿  Animate.cpp
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\pacman.h(39,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Animate.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\pacman.h(40,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Animate.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\pacman.h(41,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Animate.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\pacman.h(42,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Animate.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\pacman.h(44,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Animate.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\pacman.h(45,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Animate.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\pacman.h(46,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Animate.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\pacman.h(47,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Animate.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Animate.h(17,10): error C2533: 'Animation': constructors not allowed a return type
+  (compiling source file 'Animate.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Animate.cpp(48,5): error C3861: 'PulseUpdate': identifier not found
+  Gameloop.cpp
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Pacman.h(39,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Gameloop.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Pacman.h(40,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Gameloop.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Pacman.h(41,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Gameloop.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Pacman.h(42,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Gameloop.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Pacman.h(44,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Gameloop.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Pacman.h(45,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Gameloop.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Pacman.h(46,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Gameloop.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Pacman.h(47,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Gameloop.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Animate.h(17,10): error C2533: 'Animation': constructors not allowed a return type
+  (compiling source file 'Gameloop.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(208,64): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(208,64): warning C4244:         with
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(208,64): warning C4244:         [
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(208,64): warning C4244:             T=float
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(208,64): warning C4244:         ]
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(208,41): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(208,41): warning C4244:         with
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(208,41): warning C4244:         [
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(208,41): warning C4244:             T=float
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(208,41): warning C4244:         ]
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(227,58): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(227,58): warning C4244:         with
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(227,58): warning C4244:         [
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(227,58): warning C4244:             T=float
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(227,58): warning C4244:         ]
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(227,35): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(227,35): warning C4244:         with
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(227,35): warning C4244:         [
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(227,35): warning C4244:             T=float
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(227,35): warning C4244:         ]
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(228,53): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(228,53): warning C4244:         with
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(228,53): warning C4244:         [
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(228,53): warning C4244:             T=float
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(228,53): warning C4244:         ]
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(228,30): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(228,30): warning C4244:         with
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(228,30): warning C4244:         [
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(228,30): warning C4244:             T=float
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(228,30): warning C4244:         ]
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(236,59): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(236,59): warning C4244:         with
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(236,59): warning C4244:         [
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(236,59): warning C4244:             T=float
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(236,59): warning C4244:         ]
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(236,36): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(236,36): warning C4244:         with
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(236,36): warning C4244:         [
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(236,36): warning C4244:             T=float
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(236,36): warning C4244:         ]
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(252,58): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(252,58): warning C4244:         with
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(252,58): warning C4244:         [
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(252,58): warning C4244:             T=float
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(252,58): warning C4244:         ]
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(252,35): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(252,35): warning C4244:         with
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(252,35): warning C4244:         [
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(252,35): warning C4244:             T=float
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(252,35): warning C4244:         ]
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(253,53): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(253,53): warning C4244:         with
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(253,53): warning C4244:         [
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(253,53): warning C4244:             T=float
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(253,53): warning C4244:         ]
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(253,30): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(253,30): warning C4244:         with
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(253,30): warning C4244:         [
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(253,30): warning C4244:             T=float
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(253,30): warning C4244:         ]
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(274,66): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(289,5): error C2660: 'StartPacManDeath': function does not take 0 arguments
+      C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.h(42,6):
+      see declaration of 'StartPacManDeath'
+      C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(289,5):
+      while trying to match the argument list '()'
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(303,66): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(318,5): error C2660: 'StartPacManDeath': function does not take 0 arguments
+      C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.h(42,6):
+      see declaration of 'StartPacManDeath'
+      C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(318,5):
+      while trying to match the argument list '()'
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(359,22): error C2039: 'pellets_left': is not a member of 'Player'
+      C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Pacman.h(64,8):
+      see declaration of 'Player'
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(359,59): error C2039: 'pellets_left': is not a member of 'Player'
+      C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Pacman.h(64,8):
+      see declaration of 'Player'
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.cpp(381,11): error C2039: 'player': is not a member of 'GameState'
+      C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Pacman.h(77,8):
+      see declaration of 'GameState'
+  
+  Ghosts.cpp
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\pacman.h(39,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Ghosts.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\pacman.h(40,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Ghosts.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\pacman.h(41,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Ghosts.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\pacman.h(42,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Ghosts.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\pacman.h(44,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Ghosts.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\pacman.h(45,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Ghosts.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\pacman.h(46,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Ghosts.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\pacman.h(47,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Ghosts.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Animate.h(17,10): error C2533: 'Animation': constructors not allowed a return type
+  (compiling source file 'Ghosts.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Ghosts.cpp(48,5): error C3861: 'PulseUpdate': identifier not found
+  Main.cpp
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Pacman.h(39,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Pacman.h(40,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Pacman.h(41,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Pacman.h(42,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Pacman.h(44,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Pacman.h(45,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Pacman.h(46,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Pacman.h(47,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Animate.h(17,10): error C2533: 'Animation': constructors not allowed a return type
+  (compiling source file 'Main.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Main.cpp(46,10): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Main.cpp(47,10): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Main.cpp(63,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Main.cpp(65,40): error C3688: invalid literal suffix 's'; literal operator or literal operator template 'operator ""s' not found
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Main.cpp(65,39): error C2440: '<function-style-cast>': cannot convert from 'float' to 'sf::VideoMode'
+      C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Main.cpp(65,39):
+      'sf::VideoMode::VideoMode': no overloaded function could convert all the argument types
+          C:\SFML-2.5.1\include\SFML\Window\VideoMode.hpp(105,1):
+          could be 'sf::VideoMode::VideoMode(sf::VideoMode &&)'
+              C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Main.cpp(65,39):
+              'sf::VideoMode::VideoMode(sf::VideoMode &&)': cannot convert argument 1 from 'float' to 'sf::VideoMode &&'
+                  C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Main.cpp(65,71):
+                  Reason: cannot convert from 'float' to 'sf::VideoMode'
+          C:\SFML-2.5.1\include\SFML\Window\VideoMode.hpp(105,1):
+          or       'sf::VideoMode::VideoMode(const sf::VideoMode &)'
+              C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Main.cpp(65,39):
+              'sf::VideoMode::VideoMode(const sf::VideoMode &)': cannot convert argument 1 from 'float' to 'const sf::VideoMode &'
+                  C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Main.cpp(65,71):
+                  Reason: cannot convert from 'float' to 'const sf::VideoMode'
+          C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Main.cpp(65,39):
+          while trying to match the argument list '(float)'
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Main.cpp(65,25): error C2665: 'sf::RenderWindow::RenderWindow': no overloaded function could convert all the argument types
+      C:\SFML-2.5.1\include\SFML\Graphics\RenderWindow.hpp(180,1):
+      could be 'sf::RenderWindow::RenderWindow(const sf::RenderWindow &)'
+          C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Main.cpp(65,25):
+          'sf::RenderWindow::RenderWindow(const sf::RenderWindow &)': cannot convert argument 1 from 'const char [19]' to 'const sf::RenderWindow &'
+              C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Main.cpp(65,77):
+              Reason: cannot convert from 'const char [19]' to 'const sf::RenderWindow'
+      C:\SFML-2.5.1\include\SFML\Graphics\RenderWindow.hpp(94,5):
+      or       'sf::RenderWindow::RenderWindow(sf::WindowHandle,const sf::ContextSettings &)'
+          C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Main.cpp(65,25):
+          'sf::RenderWindow::RenderWindow(sf::WindowHandle,const sf::ContextSettings &)': cannot convert argument 1 from 'const char [19]' to 'sf::WindowHandle'
+              C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Main.cpp(65,77):
+              Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+      C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Main.cpp(65,25):
+      while trying to match the argument list '(const char [19])'
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Main.cpp(85,14): error C2039: 'loadfromfile': is not a member of 'sf::Music'
+      C:\SFML-2.5.1\include\SFML\Audio\Music.hpp(48,22):
+      see declaration of 'sf::Music'
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Main.cpp(87,8): error C2039: 'cout': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\random(47,1):
+      see declaration of 'std'
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Main.cpp(87,8): error C2065: 'cout': undeclared identifier
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Main.cpp(91,9): error C2039: 'setloop': is not a member of 'sf::Music'
+      C:\SFML-2.5.1\include\SFML\Audio\Music.hpp(48,22):
+      see declaration of 'sf::Music'
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Main.cpp(94,19): error C2039: 'loadfromfile': is not a member of 'sf::SoundBuffer'
+      C:\SFML-2.5.1\include\SFML\Audio\SoundBuffer.hpp(49,22):
+      see declaration of 'sf::SoundBuffer'
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Main.cpp(96,8): error C2039: 'cout': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\random(47,1):
+      see declaration of 'std'
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Main.cpp(96,8): error C2065: 'cout': undeclared identifier
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Main.cpp(103,17): error C2039: 'loadfromfile': is not a member of 'sf::SoundBuffer'
+      C:\SFML-2.5.1\include\SFML\Audio\SoundBuffer.hpp(49,22):
+      see declaration of 'sf::SoundBuffer'
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Main.cpp(105,8): error C2039: 'cout': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\random(47,1):
+      see declaration of 'std'
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Main.cpp(105,8): error C2065: 'cout': undeclared identifier
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Main.cpp(112,18): error C2039: 'loadfromfile': is not a member of 'sf::SoundBuffer'
+      C:\SFML-2.5.1\include\SFML\Audio\SoundBuffer.hpp(49,22):
+      see declaration of 'sf::SoundBuffer'
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Main.cpp(114,8): error C2039: 'cout': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\random(47,1):
+      see declaration of 'std'
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Main.cpp(114,8): error C2065: 'cout': undeclared identifier
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Main.cpp(145,3): error C2660: 'GameLoop': function does not take 2 arguments
+      C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.h(12,6):
+      see declaration of 'GameLoop'
+      C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Main.cpp(145,3):
+      while trying to match the argument list '(sf::Int32, int)'
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Main.cpp(148,3): error C2660: 'GameLoop': function does not take 2 arguments
+      C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Gameloop.h(12,6):
+      see declaration of 'GameLoop'
+      C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Main.cpp(148,3):
+      while trying to match the argument list '(sf::Int32, int)'
+  
+  Player.cpp
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\pacman.h(39,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Player.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\pacman.h(40,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Player.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\pacman.h(41,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Player.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\pacman.h(42,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Player.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\pacman.h(44,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Player.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\pacman.h(45,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Player.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\pacman.h(46,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Player.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\pacman.h(47,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Player.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Player.cpp(51,55): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Player.cpp(51,55): warning C4244:         with
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Player.cpp(51,55): warning C4244:         [
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Player.cpp(51,55): warning C4244:             T=float
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Player.cpp(51,55): warning C4244:         ]
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Player.cpp(55,55): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Player.cpp(55,55): warning C4244:         with
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Player.cpp(55,55): warning C4244:         [
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Player.cpp(55,55): warning C4244:             T=float
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Player.cpp(55,55): warning C4244:         ]
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Player.cpp(73,5): error C2660: 'PlayerTileCollision': function does not take 2 arguments
+      C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\pacman.h(118,6):
+      see declaration of 'PlayerTileCollision'
+      C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Player.cpp(73,5):
+      while trying to match the argument list '(Dir, sf::Vector2f)'
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Player.cpp(88,7): error C2660: 'PlayerTileCollision': function does not take 2 arguments
+      C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\pacman.h(118,6):
+      see declaration of 'PlayerTileCollision'
+      C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Player.cpp(88,7):
+      while trying to match the argument list '(Dir, sf::Vector2f)'
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Player.cpp(151,55): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Player.cpp(151,55): warning C4244:         with
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Player.cpp(151,55): warning C4244:         [
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Player.cpp(151,55): warning C4244:             T=float
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Player.cpp(151,55): warning C4244:         ]
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Player.cpp(155,55): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Player.cpp(155,55): warning C4244:         with
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Player.cpp(155,55): warning C4244:         [
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Player.cpp(155,55): warning C4244:             T=float
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Player.cpp(155,55): warning C4244:         ]
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Player.cpp(173,5): error C2660: 'PlayerTileCollision': function does not take 2 arguments
+      C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\pacman.h(118,6):
+      see declaration of 'PlayerTileCollision'
+      C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Player.cpp(173,5):
+      while trying to match the argument list '(Dir, sf::Vector2f)'
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Player.cpp(189,7): error C2660: 'PlayerTileCollision': function does not take 2 arguments
+      C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\pacman.h(118,6):
+      see declaration of 'PlayerTileCollision'
+      C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Player.cpp(189,7):
+      while trying to match the argument list '(Dir, sf::Vector2f)'
+  
+  Render.cpp
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\pacman.h(39,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Render.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\pacman.h(40,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Render.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\pacman.h(41,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Render.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\pacman.h(42,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Render.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\pacman.h(44,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Render.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\pacman.h(45,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Render.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\pacman.h(46,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Render.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\pacman.h(47,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Render.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Animate.h(17,10): error C2533: 'Animation': constructors not allowed a return type
+  (compiling source file 'Render.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Render.cpp(51,60): error C2109: subscript requires array or pointer type
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Render.cpp(56,60): error C2109: subscript requires array or pointer type
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Render.cpp(64,47): error C2109: subscript requires array or pointer type
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Render.cpp(69,47): error C2109: subscript requires array or pointer type
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Render.cpp(80,30): error C3861: 'IsPulse': identifier not found
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Render.cpp(80,37): warning C4805: '!=': unsafe mix of type 'bool' and type 'unknown-type' in operation
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Render.cpp(87,13): error C3861: 'IsPulse': identifier not found
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Render.cpp(91,19): error C3861: 'IsPulse': identifier not found
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Render.cpp(105,41): error C3861: 'getGhostFrame': identifier not found
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Render.cpp(110,29): error C2109: subscript requires array or pointer type
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Render.cpp(111,59): error C2109: subscript requires array or pointer type
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Render.cpp(111,93): error C2109: subscript requires array or pointer type
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Render.cpp(112,77): error C2109: subscript requires array or pointer type
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Render.cpp(112,46): error C3861: 'getPacManFrame': identifier not found
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Render.cpp(118,38): error C2109: subscript requires array or pointer type
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Render.cpp(119,60): error C2109: subscript requires array or pointer type
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Render.cpp(119,94): error C2109: subscript requires array or pointer type
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Render.cpp(120,82): error C2109: subscript requires array or pointer type
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Render.cpp(120,32): error C2664: 'void sf::Sprite::setTextureRect(const sf::IntRect &)': cannot convert argument 1 from 'initializer list' to 'const sf::IntRect &'
+      C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Render.cpp(120,47):
+      Reason: cannot convert from 'initializer list' to 'const sf::IntRect'
+      C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Render.cpp(120,47):
+      'sf::Rect<int>::Rect': function does not take 3 arguments
+          C:\SFML-2.5.1\include\SFML\Graphics\Rect.hpp(93,5):
+          could be 'sf::Rect<int>::Rect(const sf::Rect<U> &)'
+          C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Render.cpp(120,47):
+          while trying to match the argument list '(int, int, int)'
+      C:\SFML-2.5.1\include\SFML\Graphics\Sprite.hpp(113,10):
+      see declaration of 'sf::Sprite::setTextureRect'
+      C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Render.cpp(120,32):
+      while trying to match the argument list '(initializer list)'
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Render.cpp(132,9): error C3861: 'IsPulse': identifier not found
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Render.cpp(143,55): error C2109: subscript requires array or pointer type
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Render.cpp(143,89): error C2109: subscript requires array or pointer type
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Render.cpp(144,73): error C2109: subscript requires array or pointer type
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Render.cpp(144,42): error C3861: 'getPacManFrame': identifier not found
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Render.cpp(150,41): error C3861: 'GetGhostFrame': identifier not found
+  Sound.cpp
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Pacman.h(39,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Sound.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Pacman.h(40,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Sound.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Pacman.h(41,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Sound.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Pacman.h(42,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Sound.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Pacman.h(44,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Sound.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Pacman.h(45,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Sound.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Pacman.h(46,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Sound.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Pacman.h(47,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Sound.cpp')
+  
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Sound.cpp(54,33): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\PC\Desktop\compro2025\kuy\Pacman-master\PacMan\Sound.cpp(54,40): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  Generating Code...
