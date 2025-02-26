@@ -1,14 +1,11 @@
 #ifndef GAMELOOP_H
 #define GAMELOOP_H
+#include "Sound.h"
 #include "pacman.h"
 #include "Render.h"
 #include "Ghosts.h"
 #include "player.h"
 #include "Animate.h"
-#include "Music1.wav"
-#include "startsound.wav"
-#include "winsound.wav"
-#include "deadsound.wav"
 
 void OnStart();
 void OnQuit();
