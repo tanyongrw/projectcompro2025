@@ -75,8 +75,6 @@ int main()
 	OnStart();
 	sf::Clock clock;
 	sf::Time elapsed;
-	
-	SoundManager soundManager;
 
 
 	while (window.isOpen()) {
