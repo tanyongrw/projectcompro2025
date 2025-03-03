@@ -1,0 +1,39 @@
+﻿  Render.cpp
+C:\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(55,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Render.cpp')
+  
+C:\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(56,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Render.cpp')
+  
+C:\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(57,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Render.cpp')
+  
+C:\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(58,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Render.cpp')
+  
+C:\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(61,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Render.cpp')
+  
+C:\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(62,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Render.cpp')
+  
+C:\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(63,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Render.cpp')
+  
+C:\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Pacman.h(64,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Render.cpp')
+  
+C:\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Render.cpp(60,69): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Render.cpp(60,62): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Render.cpp(84,71): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Render.cpp(84,64): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Render.cpp(89,71): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Render.cpp(89,64): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Render.cpp(137,19): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Render.cpp(142,21): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Render.cpp(261,39): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Render.cpp(261,39): warning C4244:         with
+C:\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Render.cpp(261,39): warning C4244:         [
+C:\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Render.cpp(261,39): warning C4244:             T=float
+C:\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\PacMan\Render.cpp(261,39): warning C4244:         ]
+  PacMan.vcxproj -> C:\projectpacman-main\projectpacman-main\Pacman-master-new\Pacman-master\x64\Debug\PacMan.exe

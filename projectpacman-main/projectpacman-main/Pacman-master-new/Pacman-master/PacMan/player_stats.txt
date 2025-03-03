@@ -1,0 +1,11 @@
+corn 7710 7710
+dear 100 500
+hong 290 290
+jaa 0 0
+k 0 0
+nut 4050 4050
+pacman 4110 4110
+pop 510 1190
+poppop 0 0
+tan 730 1600
+tanyong 0 0
