@@ -1,0 +1,26 @@
+﻿  Main.cpp
+C:\pacman-project-main\pacman-project-main\PacMan\Pacman.h(55,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\pacman-project-main\pacman-project-main\PacMan\Pacman.h(56,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\pacman-project-main\pacman-project-main\PacMan\Pacman.h(57,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\pacman-project-main\pacman-project-main\PacMan\Pacman.h(60,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\pacman-project-main\pacman-project-main\PacMan\Pacman.h(63,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\pacman-project-main\pacman-project-main\PacMan\Pacman.h(64,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\pacman-project-main\pacman-project-main\PacMan\Pacman.h(65,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\pacman-project-main\pacman-project-main\PacMan\Pacman.h(66,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+  PacMan.vcxproj -> C:\pacman-project-main\pacman-project-main\x64\Debug\PacMan.exe
