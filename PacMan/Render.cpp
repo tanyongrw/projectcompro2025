@@ -121,6 +121,9 @@ void DrawGameUI()
 
 		std::string highScore = std::to_string(getHighScore(gState.playerName));
 		MakeText("High Score: " + highScore, 5, 30, { 255, 255, 0 });
+
+		std::string game_score = std::to_string(getgame_score(gState.playerName));
+		MakeText("Score: " + game_score, 5, 30, { 255, 255, 255 });
 	}
 	
 	if (gState.game_state == GAMESTART)
