@@ -50,3 +50,10 @@ int getHighScore(const std::string& playerName) {
     }
     return 0;
 }
+
+int getgame_score(const std::string& playerName) {
+    if (playerData.find(playerName) != playerData.end()) {
+        return playerData[playerName].score;
+    }
+    return 0;
+}
