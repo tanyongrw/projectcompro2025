@@ -13,6 +13,7 @@ struct PlayerStats {
 void loadPlayerStats(const std::string& playerName);
 void savePlayerStats(const std::string& playerName, int score); // ตรวจสอบว่าประกาศไว้
 int getHighScore(const std::string& playerName);
+int getgame_score(const std::string& playerName);
 
 
 #endif
