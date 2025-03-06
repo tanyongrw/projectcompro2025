@@ -1,0 +1,435 @@
+﻿  Animate.cpp
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(55,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Animate.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(56,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Animate.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(57,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Animate.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(60,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Animate.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(63,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Animate.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(64,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Animate.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(65,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Animate.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(66,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Animate.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(69,25): warning C4305: 'initializing': truncation from '__int64' to 'int'
+  (compiling source file 'Animate.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(69,25): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Animate.cpp')
+  
+  Gameloop.cpp
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(55,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Gameloop.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(56,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Gameloop.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(57,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Gameloop.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(60,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Gameloop.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(63,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Gameloop.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(64,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Gameloop.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(65,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Gameloop.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(66,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Gameloop.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(69,25): warning C4305: 'initializing': truncation from '__int64' to 'int'
+  (compiling source file 'Gameloop.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(69,25): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Gameloop.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Gameloop.cpp(197,62): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Gameloop.cpp(197,62): warning C4244:         with
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Gameloop.cpp(197,62): warning C4244:         [
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Gameloop.cpp(197,62): warning C4244:             T=float
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Gameloop.cpp(197,62): warning C4244:         ]
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Gameloop.cpp(197,40): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Gameloop.cpp(197,40): warning C4244:         with
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Gameloop.cpp(197,40): warning C4244:         [
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Gameloop.cpp(197,40): warning C4244:             T=float
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Gameloop.cpp(197,40): warning C4244:         ]
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Gameloop.cpp(208,38): warning C4307: '*': signed integral constant overflow
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Gameloop.cpp(208,38): warning C4305: '=': truncation from '__int64' to 'int'
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Gameloop.cpp(208,38): warning C4309: '=': truncation of constant value
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Gameloop.cpp(216,56): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Gameloop.cpp(216,56): warning C4244:         with
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Gameloop.cpp(216,56): warning C4244:         [
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Gameloop.cpp(216,56): warning C4244:             T=float
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Gameloop.cpp(216,56): warning C4244:         ]
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Gameloop.cpp(216,34): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Gameloop.cpp(216,34): warning C4244:         with
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Gameloop.cpp(216,34): warning C4244:         [
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Gameloop.cpp(216,34): warning C4244:             T=float
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Gameloop.cpp(216,34): warning C4244:         ]
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Gameloop.cpp(217,51): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Gameloop.cpp(217,51): warning C4244:         with
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Gameloop.cpp(217,51): warning C4244:         [
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Gameloop.cpp(217,51): warning C4244:             T=float
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Gameloop.cpp(217,51): warning C4244:         ]
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Gameloop.cpp(217,29): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Gameloop.cpp(217,29): warning C4244:         with
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Gameloop.cpp(217,29): warning C4244:         [
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Gameloop.cpp(217,29): warning C4244:             T=float
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Gameloop.cpp(217,29): warning C4244:         ]
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Gameloop.cpp(234,65): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Gameloop.cpp(342,39): warning C4307: '*': signed integral constant overflow
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Gameloop.cpp(342,39): warning C4305: '=': truncation from '__int64' to 'int'
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Gameloop.cpp(342,39): warning C4309: '=': truncation of constant value
+  Ghosts.cpp
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(55,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Ghosts.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(56,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Ghosts.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(57,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Ghosts.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(60,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Ghosts.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(63,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Ghosts.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(64,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Ghosts.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(65,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Ghosts.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(66,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Ghosts.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(69,25): warning C4305: 'initializing': truncation from '__int64' to 'int'
+  (compiling source file 'Ghosts.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(69,25): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Ghosts.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(36,41): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(36,41): warning C4305:         with
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(36,41): warning C4305:         [
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(36,41): warning C4305:             T=float
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(36,41): warning C4305:         ]
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(38,44): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(38,44): warning C4305:         with
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(38,44): warning C4305:         [
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(38,44): warning C4305:             T=float
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(38,44): warning C4305:         ]
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(40,41): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(40,41): warning C4305:         with
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(40,41): warning C4305:         [
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(40,41): warning C4305:             T=float
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(40,41): warning C4305:         ]
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(42,44): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(42,44): warning C4305:         with
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(42,44): warning C4305:         [
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(42,44): warning C4305:             T=float
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(42,44): warning C4305:         ]
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(53,31): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(67,65): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(67,65): warning C4244:         with
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(67,65): warning C4244:         [
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(67,65): warning C4244:             T=float
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(67,65): warning C4244:         ]
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(67,55): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(67,55): warning C4244:         with
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(67,55): warning C4244:         [
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(67,55): warning C4244:             T=float
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(67,55): warning C4244:         ]
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(67,45): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(67,45): warning C4244:         with
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(67,45): warning C4244:         [
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(67,45): warning C4244:             T=float
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(67,45): warning C4244:         ]
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(67,35): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(67,35): warning C4244:         with
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(67,35): warning C4244:         [
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(67,35): warning C4244:             T=float
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(67,35): warning C4244:         ]
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(70,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(96,81): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(96,81): warning C4244:         with
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(96,81): warning C4244:         [
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(96,81): warning C4244:             T=float
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(96,81): warning C4244:         ]
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(96,59): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(96,59): warning C4244:         with
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(96,59): warning C4244:         [
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(96,59): warning C4244:             T=float
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(96,59): warning C4244:         ]
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(96,37): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(96,37): warning C4244:         with
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(96,37): warning C4244:         [
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(96,37): warning C4244:             T=float
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(96,37): warning C4244:         ]
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(96,24): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(96,24): warning C4244:         with
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(96,24): warning C4244:         [
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(96,24): warning C4244:             T=float
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(96,24): warning C4244:         ]
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(243,40): warning C4307: '*': signed integral constant overflow
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(243,40): warning C4305: '=': truncation from '__int64' to 'int'
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(243,40): warning C4309: '=': truncation of constant value
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(259,77): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Ghosts.cpp(287,18): warning C4305: '*=': truncation from 'double' to 'float'
+  Main.cpp
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(55,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(56,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(57,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(60,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(63,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(64,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(65,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(66,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(69,25): warning C4305: 'initializing': truncation from '__int64' to 'int'
+  (compiling source file 'Main.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(69,25): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Main.cpp')
+  
+  Pacman.cpp
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(55,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Pacman.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(56,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Pacman.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(57,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Pacman.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(60,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Pacman.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(63,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Pacman.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(64,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Pacman.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(65,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Pacman.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(66,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Pacman.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(69,25): warning C4305: 'initializing': truncation from '__int64' to 'int'
+  (compiling source file 'Pacman.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(69,25): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Pacman.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(8,27): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(8,27): warning C4244:         with
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(8,27): warning C4244:         [
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(8,27): warning C4244:             T=float
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(8,27): warning C4244:         ]
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(8,20): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(8,20): warning C4244:         with
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(8,20): warning C4244:         [
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(8,20): warning C4244:             T=float
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(8,20): warning C4244:         ]
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(24,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(24,21): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(24,21): warning C4244:         with
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(24,21): warning C4244:         [
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(24,21): warning C4244:             T=float
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(24,21): warning C4244:         ]
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(27,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(27,21): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(27,21): warning C4244:         with
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(27,21): warning C4244:         [
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(27,21): warning C4244:             T=float
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(27,21): warning C4244:         ]
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(30,35): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(30,35): warning C4244:         with
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(30,35): warning C4244:         [
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(30,35): warning C4244:             T=float
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(30,35): warning C4244:         ]
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(30,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(33,35): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(33,35): warning C4244:         with
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(33,35): warning C4244:         [
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(33,35): warning C4244:             T=float
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(33,35): warning C4244:         ]
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(33,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(46,22): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(46,22): warning C4244:         with
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(46,22): warning C4244:         [
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(46,22): warning C4244:             T=float
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(46,22): warning C4244:         ]
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(50,22): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(50,22): warning C4244:         with
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(50,22): warning C4244:         [
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(50,22): warning C4244:             T=float
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.cpp(50,22): warning C4244:         ]
+  Player.cpp
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(55,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Player.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(56,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Player.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(57,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Player.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(60,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Player.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(63,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Player.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(64,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Player.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(65,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Player.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(66,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Player.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(69,25): warning C4305: 'initializing': truncation from '__int64' to 'int'
+  (compiling source file 'Player.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(69,25): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Player.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Player.cpp(51,52): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Player.cpp(51,52): warning C4244:         with
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Player.cpp(51,52): warning C4244:         [
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Player.cpp(51,52): warning C4244:             T=float
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Player.cpp(51,52): warning C4244:         ]
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Player.cpp(54,52): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Player.cpp(54,52): warning C4244:         with
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Player.cpp(54,52): warning C4244:         [
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Player.cpp(54,52): warning C4244:             T=float
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Player.cpp(54,52): warning C4244:         ]
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Player.cpp(57,52): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Player.cpp(57,52): warning C4244:         with
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Player.cpp(57,52): warning C4244:         [
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Player.cpp(57,52): warning C4244:             T=float
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Player.cpp(57,52): warning C4244:         ]
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Player.cpp(60,52): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Player.cpp(60,52): warning C4244:         with
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Player.cpp(60,52): warning C4244:         [
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Player.cpp(60,52): warning C4244:             T=float
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Player.cpp(60,52): warning C4244:         ]
+  Render.cpp
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(55,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Render.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(56,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Render.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(57,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Render.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(60,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Render.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(63,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Render.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(64,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Render.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(65,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Render.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(66,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Render.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(69,25): warning C4305: 'initializing': truncation from '__int64' to 'int'
+  (compiling source file 'Render.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(69,25): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Render.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Render.cpp(60,69): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Render.cpp(60,62): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Render.cpp(84,71): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Render.cpp(84,64): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Render.cpp(89,71): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Render.cpp(89,64): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Render.cpp(137,19): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Render.cpp(142,21): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Render.cpp(264,39): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Render.cpp(264,39): warning C4244:         with
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Render.cpp(264,39): warning C4244:         [
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Render.cpp(264,39): warning C4244:             T=float
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Render.cpp(264,39): warning C4244:         ]
+  Sound.cpp
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(55,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Sound.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(56,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Sound.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(57,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Sound.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(60,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Sound.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(63,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Sound.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(64,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Sound.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(65,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Sound.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(66,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Sound.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(69,25): warning C4305: 'initializing': truncation from '__int64' to 'int'
+  (compiling source file 'Sound.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Pacman.h(69,25): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Sound.cpp')
+  
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Sound.cpp(54,33): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Sound.cpp(54,40): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  PlayerStats.cpp
+  Generating Code...
+C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\PacMan\Player.cpp(22,1): warning C4715: 'GetCorrection': not all control paths return a value
+  PacMan.vcxproj -> C:\Users\sriin\OneDrive\เดสก์ท็อป\projectcompro2025-version 2\x64\Debug\PacMan.exe
